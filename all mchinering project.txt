@@ -1,0 +1,499 @@
+http://cs229.stanford.edu/projects2012.html
+
+
+
+
+Stnf
+
+CS 229 Machine Learning
+Final Projects, Autumn 2012
+
+A Facebook Profile-Based TV Recommender System. Jeff David, Samir Bajaj, Cherif Jazra. [pdf]
+
+A Flexible System for Hand Gesture Recognition. Matt Vitelli, Dominic Becker, Laza Upatising. [pdf]
+
+A New Rival To Predator And ALIEN. Martin Raison, Botao Hu. [pdf]
+
+A Risky Proposal: Designing a Risk Game Playing Agent. Juan Lozano, Dane Bratz. [pdf]
+
+A Supervised Learning Method for Seismic Data Quality Control. Travis Addair. [pdf]
+
+A Wind Power Forecasting Problem. Behnam Montazeri Najafabadi, Gaurav Kapoor, Robert J. Yates. [pdf]
+
+Acoustic Detection: Identifying Train Events. Shannon McKenna, David McLaren. [pdf]
+
+Action Recognition in Tennis. Rajbir Kataria, Aman Sikka. [pdf]
+
+An application of machine learning to the board game pentago. Lilli Oetting, Greg Heon. [pdf]
+
+Analysis for Association between Genomic Information and Survival Rate of Glioblastoma Multiforme. Yingying Bi, Weiruo Zhang, Jieying Luo. [pdf]
+
+Analyzing and Predicting Tags to Build an Error-Resistant Music Recommendation System. Elmer Le, Quentin Moy, Jerry Zhou. [pdf]
+
+Analyzing CS 229 Projects. Michael Chang, Ethan Saeta. [pdf]
+
+Applying machine learning algorithms to oil reservoir production optimization. Mehrdad Gharib Shirangi. [pdf]
+
+Applying Reinforcement Learning to Competitive Tetris. Max Bodoia, Arjun Puranik. [pdf]
+
+Assigning B cell Maturity in Leukemia. Gabi Fragiadakis, Jamie Irvine. [pdf]
+
+Association of enhancers and genes they regulate. Yunxiao Zhang. [pdf]
+
+Author Identification on Twitter. Antonio Castro, Joshua Brian Lindauer. [pdf]
+
+Authorship Identification of Movie Reviews. Raghav Ramesh, Neeraj Pradhan, Rachana Gogate. [pdf]
+
+Automated analysis of calcium imaging data. Helen Horan Yang. [pdf]
+
+Automated detection and repair of visual distortion in data graphics. Alex Kindel. [pdf]
+
+Automated Essay Grading Using Machine Learning. Manvi Mahana, Mishel Johns, Ashwin Apte. [pdf]
+
+Automated hand recognition as a human-computer interface. Sergii Shelpuk. [pdf]
+
+Automated Segmentation of Breast Density. Rebecca Sawyer. [pdf]
+
+Automated Stock Trading Using Machine Learning Algorithms. Tianxin Dai, Arpan Shah, Hongxia Zhong. [pdf]
+
+Automated Transcription of Guitar Music. Carl-Fredrik Arndt, Lewis Li. [pdf]
+
+Automatic detection and cropping of dipoles in large area SQUID magnetometry scans of individual nano magnets.. Lisa Qian. [pdf]
+
+Automatic Detection of Dark Matter via Weak Gravitational Lensing. Thomas Colvin, Francisco Capristan. [pdf]
+
+Automatic Tag Generation for Music Files. Anthony Mainero, Omar Diab, Reid Watson. [pdf]
+
+Beer recommendation engine. Robert Wilson. [pdf]
+
+Bestbuy Recommendation System. Anubhav Dewan, Nikhil Rajendra, Mehmet Can Colakoglu. [pdf]
+
+Biomedical Research Topics Trends. Yu-chen Tuan. [pdf]
+
+Breast Cancer Prognosis. JJ Liu, Catherine Lu. [pdf]
+
+Broadcast news story boundary detection using visual, audio and text features. Maryam Daneshi, Matt Yu. [pdf]
+
+Cancerous Tissue Classication Using Microarray and RNASeq Gene Expression. Pei-Chun Chen, Yuling Liu, Victoria Popic. [pdf]
+
+Characterizing Dark Matter Concentrations Through Magnitude Distortions due to Gravitational Lensing. Andre Menck. [pdf]
+
+City Clustering from Craigslist Posts. Charles Johnson, Michael Kim. [pdf]
+
+Classification of Honest and Deceitful Memory Using fMRI Data. Tyler Boyd-Meredith. [pdf]
+
+Classification of Induction Signals for the EXO-200 Double Beta Decay Experiment. Kevin Shin, Jason Chaves. [pdf]
+
+Classifying applications based on API consumption. Arne Roomann-Kurrik. [pdf]
+
+Classifying Chess Positions. Chris De Sa. [pdf]
+
+Classifying the subjective: Can music genres be reliably determined from lyrics?. Ahmed Bou-Rabee , Keegan Go, Karanveer Mohan. [pdf]
+
+Clustering by topological methods. Michael Lindsey. [pdf]
+
+Composer Identification of Digital Audio Modeling Content Specific Features Through Markov Models.. Aric Bartle. [pdf]
+
+Creating a Texas Hold'Em Bot. Arjun Kumar. [pdf]
+
+Predicting Wallpaper Preferences. Peter Melick. [pdf]
+
+Crystal Ball through the Lens of Facebook . Justin Li, Yangluo Jim Wang. [pdf]
+
+Dark Matter Detection. Paul Covington, Daniel Frank, Alexander Ioannidis. [pdf]
+
+Deep Learning for Wireless Interference Segmentation and Prediction. Sameep Tandon, Sandeep Chinchali. [pdf]
+
+Deep Learning for Time Series Modelling. Enzo Busseti, Ian Osband, Scott Wong. [pdf]
+
+Time Series analysis: the effect of adding an unsupervised layer to NN time series prediction. David Seetapun. [pdf]
+
+Deep Understanding of Financial Knowledge through Unsupervised Learning. Chang Su, Wenjia Xu, Liangliang Zhang. [pdf]
+
+Detecting Absorption of Solar Radiation By Clouds with Satellite Imagery Processing. Leon Zhu, Changyeon Jo. [pdf]
+
+Detecting Bad Wikipedia Edits. Brett Kuprel. [pdf]
+
+Detecting Dark Matter Halos. Sam Beder, Brie Bunge, Adriana Diakite. [pdf]
+
+Detecting Peer-to-Peer Insults. Jiyan Yang, Fayadhoi Ibrahima, Bertrand Decoster. [pdf]
+
+Detecting vandalisms in Wikipedia edits. Mudit Jain, Murugan Ayyappan, Nikhil Agarwal. [pdf]
+
+Detecting Wikipedia Vandalism. Tony Jin, Lynnelle Ye, Hanzhi Zhu. [pdf]
+
+Detection of Myers-Briggs Type Indicator via Text Based Computer-Mediated Communication. Dan Brinks, Hugh White. [pdf]
+
+Determining Behavior of Bid-Ask Prices Following Liquidity Shocks. Jia-Han Chiam, Chuanqi Shen. [pdf]
+
+Developing Fingerprints to Computationally Define Functional Brain Networks and Noise. Vanessa Sochat. [pdf]
+
+Dining Scene Recognition Using Related Object Detection . Chaohao Wang, Gilbert Fu, Alan Quach. [pdf]
+
+Discovering Elite Users In Question and Answering Communities. Royce Cheng-Yue, Richard Hsu, Nicholas Stevens. [pdf]
+
+Distinguishing Opinion From News. Katherine Busch. [pdf]
+
+E-Commerce Product Categorization. Srinivas Gottipati, Mumtaz Vauhkonen. [pdf]
+
+Earthquake Waveform Recognition. Olivia Grubert, Bridget Vuong. [pdf]
+
+Electronic Devices Products Sales Prediction Using Social Media Sentiment Analysis. Parnian Zarghamravanbakhsh, Sahar Nassirpour, Reza Nasiri Mahalati. [pdf]
+
+Smart and Fast Email Sorting. Antonin Bas, Clément Mennesson. [pdf]
+
+Content aware email multi-class classification - Categorize emails according to senders. Liwei Wang, Li Du. [pdf]
+
+Emote-Cat. Zahan Malkani, Evelyn Gillie. [pdf]
+
+Employer Health Insurance Premium Prediction. Elliott Lui. [pdf]
+
+Estimating Convergence Probability for the Hartree-Fock Algorithm for Calculating Electronic Wavefunctions for Molecules. Sofia Izmailov, Fang Liu. [pdf]
+
+Stochastic Control of Electric Vehicle Charging. Kyle Anderson. [pdf]
+
+Evaluating Classified Ad Effectiveness. Lawrence Xing. [pdf]
+
+Evaluation of Credit Risk. Marland Sitt, Tony Wu. [pdf]
+
+Event Extraction Using Distant Supervision. Kevin Reschke. [pdf]
+
+Evolution of Movie Topics over Time. Cong Meng, Mian Zhang, Wenqiong Guo. [pdf]
+
+Expected wind turbine load estimation based on the wind field joint pdf constructed using the mixture Gaussian-EM algorithm. Jinkyoo Park. [pdf]
+
+Extracting Vocal Sources From Master Audio Recordings. Derek Anthony Mendez Jr, Chris Young, Tarun Pondicherry. [pdf]
+
+Family History Detection from Clinical Text. Srinivasan Iyer. [pdf]
+
+Fast and Low-power OCR for the Blind. Frank Liu. [pdf]
+
+Financial Market Time Series Prediction with Recurrent Neural Networks. Armando Bernal, Sam Fok, Rohit Pidaparthi. [pdf]
+
+Stock Option Price Prediction. Abraham Adam. [pdf]
+
+Good Cell, Bad Cell: Classification of Segmented Images for Suitable Quantification and Analysis. Derek Macklin, Haisam Islam, Jonathan Lu. [pdf]
+
+Handwritten Character Recognition in Ancient Manuscripts. Peter Kajenski. [pdf]
+
+How a Bill Becomes a Law - Predicting Votes from Legislation Text. David Goldblatt, Tyler O'Neil. [pdf]
+
+How We Build. Micah Arvey. [pdf]
+
+How well do people learn?. Bertrand Schneider, Yuanyuan Pao. [pdf]
+
+Human Activity Recognition in Videos. Vignesh Ramanathan, Ankur Sarin, Rishabh Goel. [pdf]
+
+iDec: Real-time eye state classification via web cam. Miguel Picallo, Heerad Farkhoor, Thomas von der Ohe. [pdf]
+
+Identification and Compensation for Corrupt Sensor Data in Robotic Grasping. Habiya Beg, Paul Karplus, Hannah Stuart. [pdf]
+
+Applying Feature Selection to Gene Expression Data. Gustavo Empinotti, Susan Tu, Raf Mertens. [pdf]
+
+Identifying Dark Matter Halos. Matt Anderson, Phil Chen, Dustin Janatpour. [pdf]
+
+Identifying External Vulnerability. Zhao Liu. [pdf]
+
+Identifying Important Communications. Aaron Jaffey, Akifumi Kobashi. [pdf]
+
+Identifying Low-Quality YouTube Comments. Alex Trytko, Steve Young. [pdf]
+
+Signal denoising via non linear manifolds. Alex Mihlin. [pdf]
+
+Imaggle Project - 3D Human Modelling. Katherine Chen, Yoo-Yoo Hsiu Yeh, Fuad Al-Amin, Shuang David Liu. [pdf]
+
+Incorporating Global Information into Local Upscaling of Fluid Flow in Porous Media. Kasama Itthisawatpan, Perth (Pu) Charernwattanagul. [pdf]
+
+Intelligent Technology for Innovation in Urban Disasters . Joe Fan, Adam Lazrus, Anand Ravulapalli, Michael Ross. [pdf]
+
+Interpolating images using non-linear dimensionality reduction. Sammy El Ghazzal, Sébastien Robaszkiewicz. [pdf]
+
+Song genre classification via training on segment chromas and MFCCs. Alex Cope, Caleb Jordan. [pdf]
+
+Improvement of an automatic speech recognition toolkit. Christopher Edmonds, Shi Hu, David Mandle. [pdf]
+
+Kicked Car Prediction. Albert Ho, Robert Romano, Alice Wu. [pdf]
+
+Kinect gesture recognition and classification. Justin Huang, Chun-Wei Lee, Junji Ma. [pdf]
+
+Kinect Gesture Recognition for Interactive System. Hao Zhang, Wenxiao Du, Haoran Li. [pdf]
+
+Topic Modeling using LDA with Feedback Mechanism. Alireza Bagheri Garakani. [pdf]
+
+Lasso in Categorical Data. Yunjin Choi, Rina Park, Michael Seo. [pdf]
+
+Learning Analytics for Learning to Program. Engin Bumbacher, Alfredo Sandes, Daniel Greene. [pdf]
+
+Learning and Modeling Singer Error for QbH. Nicholas McGee, Johan Ismael. [pdf]
+
+Learning Descriptors for Shape Mapping. Charlie David Camp, Andy Nguyen. [pdf]
+
+Learning Stochastic Inverses. Jacob Taylor, Ashwin Siripurapu, Andreas Stuhlmuller. [pdf]
+
+The Learning Keyboard. Jonathan Ellithorpe, Pearl Tan. [pdf]
+
+Learning Static Parameters in Stochastic Processes. Bharath Ramsundar. [pdf]
+
+Learning to Decode Cognitive States of Rat using Functional Magnetic Resonance Imaging Time Series. Jingyuan Chen, Eun Soo Choi. [pdf]
+
+Learning to Detect Information Outbreaks in Social Networks. Jiayuan Ma, Xincheng Zhang. [pdf]
+
+Learning to Play 2D Video Games. Justin Johnson, Mike Roberts. [pdf]
+
+Learning to Predict Flight Delay. Lei Sun. [pdf]
+
+Learning to Recognize Objects in Images. Matthew Zahr, Huimin Li. [pdf]
+
+Machine Learning an American Pastime. Nikhil Bhargava, Andy Fang, Peter Tseng. [pdf]
+
+Machine Learning and Capri, a Commuter Incentive Program. Hossein Karkeh Abadi, Jia Shuo Tom Yue. [pdf]
+
+Machine learning application on detecting nudity in images. Yong Lin, Yujun Wu. [pdf]
+
+Machine Learning Applied to Human Brain - Machine Interfaces. GeorgeSchorpp, Gerald Brantner. [pdf]
+
+Jazz Melody Generation and Recognition. Joseph Victor. [pdf]
+
+Magic: The Gathering Deck Performance Prediction. Roger Hau, Evan Plotkin, Hung Tran. [pdf]
+
+Malicious URL Detection. Christophe Chong, Daniel Liu, Wonhong Lee. [pdf]
+
+Maximizing Return on Direct Marketing Campaigns in Commercial Banking. Alexandra Onosova. [pdf]
+
+Million Song Dataset Challenge. Fengxuan Niu, Ming Yin, Cathy Tianjiao Zhang. [pdf]
+
+MindMouse. Andrew Robbins. [pdf]
+
+Movie rating estimation and recommendation. Zhouxiao Bao, Haiying Xia. [pdf]
+
+Movie Trailer Project. Edmund Helmer, Qinghui Ji. [pdf]
+
+Multi Agent Learning in Simulated Bot-War. Francois Chaubard, Nikolaus West. [pdf]
+
+Music Preference Prediction. Metehan Dizioglu, Rolando J Vicaria. [pdf]
+
+Music Recommender System . Xiaoye Liu, Tianye Lu, Jing Xiong. [pdf]
+
+Music Classification by Composer. Janice Lan, Armon Saied. [pdf]
+
+Negative News No More : Classifying News Article Headlines. Karianne Bergen, Leilani Gilpin. [pdf]
+
+Networks and Noise. Chao Liu. [pdf]
+
+Non-homogenous Swarms vs MDP's. Michael Comstock. [pdf]
+
+Non-Stationary Covariance Models for Discontinuous Functions as Applied to Aircraft Design Problems. Trent Lukaczyk. [pdf]
+
+Observing Dark Worlds. Joel Li. [pdf]
+
+Observing Dark Worlds. Yu-Han Chou, William Chickering. [pdf]
+
+Observing Dark Worlds. Anubhav Singla, Nandan Sawant. [pdf]
+
+Observing Dark Worlds. Alvaro Aguilar, Sebastian Echegaray. [pdf]
+
+On and Off Pathways of Ganglion Cells in the Salamander Retina. Bongsoo Suh. [pdf]
+
+Optimal Vehicle to Grid Regulation Service Scheduling. Christian Osorio. [pdf]
+
+Optimal VTOL of SpaceX's Grasshopper. Brian Mahlstedt. [pdf]
+
+Forecasting trade direction and size of future contracts using deep belief network. MK Li, Foon Wang Pong, Anthony Lai. [pdf]
+
+Parallel learning of content recommendations using map-reduce. Mike Percy. [pdf]
+
+A Comparison of Keypoint Descriptors in the Context of Pedestrian Detection : FREAK vs SURF vs BRISK. Cameron Schaeffer. [pdf]
+
+Phishing Email Detection Using Neural Network. Ningxia Zhang, Yongqing Yuan. [pdf]
+
+Predicting the 85th Academy Awards. Stephen Barber, Kasey Le, Sean O'Donnell. [pdf]
+
+Predicting Acceptance of Github Pull Requests. Nikhil Khadke, Ming Han Teh, Minghan Shen. [pdf]
+
+Predicting Airfare Prices. Manolis Papadakis. [pdf]
+
+Identifying dementia in MRI scans using machine learning. Stephen Erlien, Victor Miller, Jeff Piersol. [pdf]
+
+Predicting Arm Movements in Virtual Environments. Howon Lee, Erik Brockbank, Jimmy Lee. [pdf]
+
+Predicting Bank Default from the Quarterly report. Sunyoung Baek, Caiyao Mai. [pdf]
+
+Predicting Congressional Bill Outcomes. Zach Cain, Pamela Chua, Kristian Gampong. [pdf]
+
+Predicting Country of Origin from Genetic Data. David Poznik.
+
+Predicting Cycles in the Foreign Exchange Market. Inna Brodkin, Manuel R. López, Nicholas Shelly. [pdf]
+
+Predicting Epitopes for MHC Molecules. Shanshan Tuo, Xueheng Zhao. [pdf]
+
+Predicting Fantasy Football Performance with Machine Learning Techniques. Nitin Kapania. [pdf]
+
+Predicting Fantasy Football Results. Matt Bookman. [pdf]
+
+Predicting Flight Delays. Raj Bandyopadhyay, Rafael Guerrero-Platero. [pdf]
+
+Predicting Flight Delays. John Dieterich Lawson, Will Castillo. [pdf]
+
+Predicting floods and droughts in India. Amogh Vasekar, Paavni Rattan, Rishita Anubhai. [pdf]
+
+Predicting Future Energy Consumption.. Adrien Jacques Boiron, Stephane Lo, Antoine Marot. [pdf]
+
+Predicting IMDB Movie Ratings Using Google Trends. Deniz Demir, Olga Kapralova, Hongze Lai. [pdf]
+
+Predicting Microfinance Participation in Indian Villages. Govind Manian, Karen Shen. [pdf]
+
+Predicting Movie and TV Preferences from Facebook Profiles. Anders Haponen, Johan Lindell. [pdf]
+
+Predicting NBA Player Performance. Kevin Wheeler. [pdf]
+
+Predicting NSF Award Money from Abstracts. Kyle Brogle, Sean Ma, Laura Stelzner. [pdf]
+
+Predicting Patients with Diabetes Type II from EHR Data. Xiaoran Zhang, Ruoyu Ding. [pdf]
+
+Predicting Popular Xbox games based on Search Queries of Users. Chinmoy Mandayam, Saahil Shenoy. [pdf]
+
+Predicting Reddit Post Popularity. Jordan Segall, Alex Zamoshchin. [pdf]
+
+Predicting retail website anomalies using Twitter data. Derek Farren. [pdf]
+
+Finding Meaning in New York City Public School Data. Sophia Westwood , Daniel Jackoway. [pdf]
+
+Predicting Career Paths of NBA Players. Daniel Robbins, Suril Shah, Alex Cousland. [pdf]
+
+Predicting the Daily Liquidity of Corporate Bonds. Louis Ben Arous. [pdf]
+
+Predicting the Odds of Getting Retweeted. Arun Mahendra. [pdf]
+
+Predicting the Outcome of Baseball Games. Clint Riley. [pdf]
+
+Predicting the Popularity of Social News Posts. Scott Michelson, Joe Maguire. [pdf]
+
+Predicting the US Presidential Election using Twitter data. Swathi Chandrasekar, Emmanuel Charon, Alexandre Ginet. [pdf]
+
+Predicting Transcription Factor Binding. Zoey Zhou, Daniel Williams, Jon Tatum. [pdf]
+
+Predicting U.S. president election result based on Google Insights. Yunzhu Chen, Fan Zhang, Yuanxi Yue. [pdf]
+
+Predicting User Ratings Using Graphical Status Models on Amazon.com. Borui Wang, Guan (Bell) Wang, Vincent Yun Lou. [pdf]
+
+Predicting Wine Prices from Wine Labels. Ruby Lee, Svetlana Lyalina, Jamie Ray. [pdf]
+
+Prediction of High-Cost Hospital Patients. Jonathan Mortensen, Linda Szabo, Luke Yancy Jr.. [pdf]
+
+Predictive Validity Of a Robotic-surgery Simulator. Anirudh Pasupuleti. [pdf]
+
+QWOP learning. Gustav Brodman, Ryan Voldstad. [pdf]
+
+Real-time reinforcement learning in traffic signal system. Tianshu Chu. [pdf]
+
+Recognizing Chatting Style. Rohan Puttagunta, Nick Wu, Renjie You. [pdf]
+
+Recommendation of TV shows and Movies based on Facebook data. Mathangi Venkatesan, Andy Mai. [pdf]
+
+Recommendation System for HCD Connect. Kesinee Ninsuwan, Mike Phulsuksombati, Umnouy Ponsukcharoen. [pdf]
+
+Recommendations for Reddit users. Avideh Taalimanesh, Mohammad Aleagha. [pdf]
+
+Recommending Movies and TV shows based on Facebook profile data. Benjamin Paterson, Weifang Zhang, Tim Mwangi. [pdf]
+
+Reconstructing Broadcasts on Trees. Douglas Stanford. [pdf]
+
+Reinforcement Learning to Play Mario. Yizheng Liao, Kun Yi, Zhe Yang. [pdf]
+
+Restaurant Recommendation for Facebook Users. Qiaosha Han, Vivian Lin, Wenqing Dai. [pdf]
+
+Road Network Reconstruction Based on Taxi GPS Data. Yilong Geng. [pdf]
+
+Road Sign Detection and Recognition. Jon "Jay" Hack, Siddhant Jagadish. [pdf]
+
+Sentiment Analysis of Users' Reviews and Comments. Abhijit Chakankar, Krishna Venuturimilli, Sanjukta Pal Mathur. [pdf]
+
+Separating Speech From Noise Challenge. Andrew Wallace , Kaushal Shrestha. [pdf]
+
+Separation of speech from noise challenge.. NagaChaitanya Vellanki. [pdf]
+
+Side Channel Cryptanalysis Using Machine Learning. Peter Zou, Josh Jaffe, Hera He. [pdf]
+
+Machine Learning in Pairs Trading Strategies. Yuxing (Joseph) Chen, Weiluo Ren, Xiaoxiong Lu. [pdf]
+
+Simultaneous coclustering and learning with dimension reduction. Harish Ganapathy. [pdf]
+
+Smart Music Rating Predictor. Scott Chao, Liqun Yang, Huang Song. [pdf]
+
+Speaker Recognition Using Deep Belief Networks. Ashley Jin, Aman Neelappa, Alex Fandriato. [pdf]
+
+Speech And Noise Separation. Ceyhun Baris Akcay. [pdf]
+
+Stay Alert! The Ford Challenge. Louis Fourrier, Fabien Gaie, Thomas Rolf. [pdf]
+
+Stay Alert! The Ford Challenge. Allen Chen, Tayyab Tariq. [pdf]
+
+Stock Market Forecasting Using Machine Learning Algorithms. Haomiao Jiang, Shunrong Shen, Tongda Zhang. [pdf]
+
+Structural Learning for Web Design. Maxine Lim, Arvind Satyanarayan, Cesar Torres. [pdf]
+
+Structural Health Monitoring Using Guided Ultrasonic Waves to Detect Damage in Composite Panels. Colleen Rosania. [pdf]
+
+Structure and Trends in a Selection of Academic Literature. Hannah Hironaka, Rahul Suri. [pdf]
+
+Stylometry for Online Forums. Kurt Barry, Katherine Luna. [pdf]
+
+Classifying Substance Abuse among young Teens. Dylan Rhodes. [pdf]
+
+Reinforcement Learning of Taxi Driver Passenger-seeking Strategies. Haochen Tang. [pdf]
+
+TB Treatment-Seeking Behavior. Sze Suen, Ruixue Guo. [pdf]
+
+Text Detection And Recognition in Natural Images. Steven Bell. [pdf]
+
+Text Mining to Detect Insults in Online Discussion. Ryan Foley, Ben Kasper, Robert Macnguyen. [pdf]
+
+That's Hot: Predicting Daily Temperature for Different Locations. Alborz Bejnood, Max Chang, Edward Zhu. [pdf]
+
+The Perfect IHUM Essay. Charles Guo, Andrew Moreland. [pdf]
+
+The Quest for Dark Matter. Abhishek Sheshadri, Sreenath Krishnan, Pranav Pai. [pdf]
+
+Thumbnail Extraction From Slide-Based Instructional Videos. Jae Hyun Kim. [pdf]
+
+Titanic: Machine Learning from Disaster. Eric Lam, Chongxuan Tang. [pdf]
+
+Training Intelligent Stoplights. Thomas Davids, Luke Knepper, Michael Celentano. [pdf]
+
+Type 2 Diabetes Mellitus Classification. Ayush Sood, Shizhi Wang, Steven Diamond. [pdf]
+
+Understanding The Effectiveness Of Bank Direct Marketing. Tong Xia, Diana Lee, Tarun Gupta. [pdf]
+
+Unsupervised detection of bad cloud nodes. Arun Kejariwal. [pdf]
+
+User Review Rating Prediction. Sammy Leong, Ashish Bhatia. [pdf]
+
+Can Song Lyrics Predict Genre?. Danny Diekroeger. [pdf]
+
+Using Twitter Data to Predict Box Office Revenues. Devin Guillory, Chip Mandal, Pierre Barthelemy. [pdf]
+
+Using Twitter to Predict Voting Behavior. Mike Chrzanowski, Daniel Levick. [pdf]
+
+Verification and Classification of Law School Outlines. Arbi Tamrazian. [pdf]
+
+Voxel selection algorithms for fMRI. Henryk Blasinski. [pdf]
+
+Wafer Spatial Signature Analysis. Abhishek Singh, Wojtek Poppe. [pdf]
+
+When Machine Learning Meets AI and Game Theory. Anurag Agrawal, Deepak Jaiswal. [pdf]
+
+Who got style?: Learning to recognize literary styles. Konstantinos Balafas, Simon Calvet. [pdf]
+
+Spoken Language Classification. Julien De Mori, Misrab Faizullah-Khan, Cameron Holt, Shahriyar Pruisken. [pdf]
+
+Use of Machine Learning in Petroleum Production Optimization under Geological Uncertainty. Obiajulu Isebor. [pdf]
+
+Using Newspaper Sentiments to Predict Stock Movements. Anthony Chow, Hao Yee Chan. [pdf]
+
+Creating TV/Movie Recommendations from Facebook Profile Information. Alejandro Ayala Hurtado, Yeskendir Kassenov, Nick Yannacone. [pdf]
+
+Using Chemical Data to predict Wine Ratings. Eric Sebastian Soto. [pdf]
+
+Accelerating Neuronal Genetic Research in C. elegans with Computer vision and Machine Learning. Roshni Cooper. [pdf]
+
+Pattern Recognition and Prediction in Equity Market. Lang Lang, Kai Wang. [pdf]
